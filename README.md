@@ -1,1 +1,1 @@
-# Design-and-Analysis-Approximate-Wallace-Tree-Multiplier-for-Error-Tolerant-Applications
+# Design-and-Analysis-of-Approximate-Wallace-Tree-Multiplier-for-Error-Tolerant-Applications
