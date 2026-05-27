@@ -1,4 +1,4 @@
-module venka_42(x1,x2,x3,x4,sum,carry);
+odule venka_42(x1,x2,x3,x4,sum,carry);
 input x1,x2,x3,x4;
 output sum, carry;
 wire w1,w2,w3,w4,w5;
